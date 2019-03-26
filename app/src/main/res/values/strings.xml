@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Assignment3AnthonyLoughlin</string>
+    <string name="directions_header">Directions</string>
+    <string name="ingredients_header">Ingredients</string>
+</resources>
